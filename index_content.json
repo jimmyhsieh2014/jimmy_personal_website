@@ -1,50 +1,12 @@
 {
-    "GOLDFISH": {
-        "dirname": "GOLDFISH",
-        "title": "GOLDFISH",
-        "date": "09-03-2024",
-        "info": "Eternal Remembrance through Burning Paper and Fading Memories",
-        "description": "In Taiwanese folklore, burning paper items can transmit objects to deceased relatives, allowing them to live eternally together. Origami, beyond its religious functions, strengthens familial bonds and heals sorrow. Conversely, as memory declines, recognizing people becomes harder, and familiar faces may fade away, akin to the 'goldfish brain' phenomenon. This work prints photos of the artist from childhood to adulthood on paper money, compiling them into a photo book. Viewers tear out pages, fold them into fish, and burn them, symbolizing the fading memory of loved ones. The burning fish carry the artist's image to the other side, aiming for eternal remembrance.",
+    "IWILLBEYOURMIRROR": {
+        "dirname": "IWILLBEYOURMIRROR",
+        "title": "I'll Be Your Mirror",
+        "date": "01-12-2024",
+        "info": "\u6211\u5c07\u6210\u70ba\u4f60\u7684\u93e1\u5b50\uff0c\u5fe0\u5be6\u7684\u6620\u7167\u51fa\u4f60\u7684\u6a21\u6a23\u3002",
+        "description": "\u300c\u6211\u5c07\u6210\u70ba\u4f60\u7684\u93e1\u5b50\u300d\u6d89\u53ca\u81ea\u6211\u8a8d\u77e5\u548c\u81ea\u6211\u63a5\u7d0d\u3002\u900f\u904e\u4ed6\u4eba\u7684\u773c\u775b\uff0c\u6211\u5011\u53ef\u66f4\u6e05\u6670\u5730\u770b\u5230\u81ea\u5df1\uff0c\u9019\u662f\u4e00\u7a2e\u5c0b\u627e\u81ea\u6211\u50f9\u503c\u611f\u548c\u5b58\u5728\u611f\u7684\u65b9\u5f0f\u3002",
         "tags": [
-            "photobook",
-            "Joss paper Origami",
-            "memory"
-        ]
-    },
-    "ASYNCCOMMV1": {
-        "dirname": "ASYNCCOMMV1",
-        "title": "Asynchronous Communication Vol.1",
-        "date": "09-07-2023",
-        "info": "Exploring Asynchronous Communication through Handmade Photography",
-        "description": "This book presents online chat room communication through handmade photography. Unlike face-to-face conversations, online chats often lack continuity, leading to communication breakdowns without facial cues. Created by authors from Taiwan(Yu-Lin Tsai) and Switzerland(Yi-Kai Chen), the book documents a month-long exchange solely through photos. Viewers decide the conversation's pace, achieving a unique asynchronous communication experience.",
-        "tags": [
-            "photobook",
-            "online chat",
-            "jet lag"
-        ]
-    },
-    "CCC": {
-        "dirname": "CCC",
-        "title": "Crowd Cloud Crowded",
-        "date": "07-18-2023",
-        "info": "Exploring Generative AI in the Context of Data Cities",
-        "description": "Through the interdisciplinary collaboration of Yu-Hsuan Chiu and Yu-Lin Tsai, 'CROWD / CLOUD / CROWDED' presents a generative AI response within the context of data cities. Leveraging social media data, the project showcases emotion generation and interactive interfaces, delving into reflections on the standardization of individual consciousness. It observes the interaction between AI and social media.",
-        "tags": [
-            "digital-art",
-            "e-map",
-            "review"
-        ]
-    },
-    "GRADIENT_SCOTOMA": {
-        "dirname": "GRADIENT_SCOTOMA",
-        "title": "Gradient Scotoma",
-        "date": "07-18-2023",
-        "info": "Mutual Observation from the Perspectives of AI and Art",
-        "description": "As a collaborative project between AI engineer Yu-Lin Tsai and artist Mu Duan, this exhibition delves into the concept of artificial intelligence as a black box, employing metaphors of gradients and blind spots. Through the intersection of technology and art, the creators offer a unique perspective on the relationship between humans and AI, guiding viewers to explore the convergence of technology and culture.",
-        "tags": [
-            "digital-art",
-            "AI",
-            "black-box characteristic"
+            "artwork"
         ]
     },
     "LINDEPARTMENT": {
@@ -54,9 +16,7 @@
         "info": "\u5617\u8a66\u96d9\u91cd\u66dd\u5149",
         "description": "\u9019\u5c31\u662f\u5fd8\u8a18\u904e\u7247\u7684\u4e0b\u5834\u4f46\u5f8c\u4f86\u767c\u73fe\u4e5f\u883b\u6709\u8da3\u7684",
         "tags": [
-            "digital-art",
-            "RNG",
-            "dust"
+            "filmphotography"
         ]
     }
 }

@@ -68,7 +68,7 @@ def build_digiart_content():
     # collect digiart works, which has "digital-art" in the tag list
     digiart_content = {}
     for work in content.items():
-        if 'digital-art' in work[1]['tags']:
+        if 'artwork' in work[1]['tags']:
             digiart_content[work[0]] = work[1]
     # sort by date which the date data is stored in metadata "date" as format "MM-DD-YYYY"
     digiart_content = sorted(digiart_content.items(), key=lambda x: datetime.strptime(x[1]['date'], '%m-%d-%Y'), reverse=True)
@@ -88,7 +88,7 @@ def build_photoart_content():
     # collect photoart works, which has "photo-art" in the tag list
     photoart_content = {}
     for work in content.items():
-        if 'photography' in work[1]['tags'] or 'photobook' in work[1]['tags']:
+        if 'filmphotography' in work[1]['tags'] or 'photography' in work[1]['tags']:
             photoart_content[work[0]] = work[1]
     # sort by date which the date data is stored in metadata "date" as format "MM-DD-YYYY"
     photoart_content = sorted(photoart_content.items(), key=lambda x: datetime.strptime(x[1]['date'], '%m-%d-%Y'), reverse=True)
