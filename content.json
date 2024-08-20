@@ -35,6 +35,18 @@
             "review"
         ]
     },
+    "LINDEPARTMENT": {
+        "dirname": "LINDEPARTMENT",
+        "title": "\u96d9\u91cd\u6797\u767e\u8ca8",
+        "date": "12-08-2022",
+        "info": "\u5617\u8a66\u96d9\u91cd\u66dd\u5149",
+        "description": "\u9019\u5c31\u662f\u5fd8\u8a18\u904e\u7247\u7684\u4e0b\u5834\u4f46\u5f8c\u4f86\u767c\u73fe\u4e5f\u883b\u6709\u8da3\u7684",
+        "tags": [
+            "digital-art",
+            "RNG",
+            "dust"
+        ]
+    },
     "ASYNCCOMMV1": {
         "dirname": "ASYNCCOMMV1",
         "title": "Asynchronous Communication Vol.1",
@@ -57,18 +69,6 @@
             "photobook",
             "material decay",
             "film"
-        ]
-    },
-    "ANALOGRANDOMGENERATOR": {
-        "dirname": "ANALOGRANDOMGENERATOR",
-        "title": "Analog Random Generator",
-        "date": "12-02-2023",
-        "info": "Exploring Analog Randomness through Dust Simulation",
-        "description": "This work uses dust to mimic analog randomness, transforming digital noise into physical forms. While computer-generated randomness isn't truly random, this device simulates genuine randomness with dust. It also ties to the Infinite Monkey Theorem, suggesting that over time, it can generate any image, including photos from each piece exhibited.",
-        "tags": [
-            "digital-art",
-            "RNG",
-            "dust"
         ]
     },
     "GRADIENT_SCOTOMA": {

@@ -114,12 +114,15 @@ h1 {
     /* font-family: 'Share Tech Mono', monospace; */
     /* font-family: 'DotGothic16', sans-serif; */
     color: var(--text-color);
+    
 }
 
 /* Main content styles */
 main {
     background: var(--background-color);
-    font-family: 'Share Tech Mono', monospace, 'Noto Sans TC', sans-serif;
+    font-family: "DotGothic16", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: var(--text-color);
 }
 
